@@ -30,6 +30,15 @@ export const barChartData = {
             backgroundColor: ['red', 'green', 'orange', 'blue', 'purple'],
             borderColor: ['green', 'red', 'blue', 'orange', 'red'],
             borderWidth: 4,
+        },
+        {
+            label: 'Expenses',
+            data: [120, 300, 200, 1800, 1200],
+            backgroundColor: ['red', 'green', 'orange', 'blue', 'purple'],
+            borderColor: ['green', 'red', 'blue', 'orange', 'red'],
+            borderWidth: 4,
         }
     ]
 }
+
+export const pieChartData = {}

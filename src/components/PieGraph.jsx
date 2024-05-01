@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Pie = () => {
+const PieGraph = () => {
     return (
         <div>Pie</div>
     )
 }
 
-export default Pie
+export default PieGraph
